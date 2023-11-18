@@ -5,5 +5,4 @@ new feature
 new feature two
 
 new feature three
-
 this is newly developed feature
