@@ -1,6 +1,6 @@
 hello world!
 
-there ware new feature
+this was a new feature
 
 new feature two
 
